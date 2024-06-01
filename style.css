@@ -1,0 +1,134 @@
+@import url("https://fonts.google.com/specimen/Inter");
+body{
+    background-color: black;
+    width:100vh;
+    height:100vh;
+}
+div{
+    background-color: hsl(0, 0%, 8%);
+    width:70vh;
+    height:130vh;
+    position:absolute;
+    top:10vh;
+    left:70vh;
+    border-radius:20px;
+    
+}
+h1{
+    color:white;
+    font-weight: 700;
+    position: absolute;
+    top:30vh;
+    left:15vh;
+    right:15vh;
+}
+address{
+   color:hsl(75, 94%, 57%);
+   position: absolute;
+   top:40vh;
+   left:20vh;
+   right:20vh;
+}
+#auth{
+    font-size:1.1em;
+    font-weight: 100;
+    color:white;
+    position: absolute;
+    top:47vh;
+    left:12vh;
+    right:8vh;
+}
+#b1{
+    font-weight: 600;
+    font-size: 1.1em;
+    background-color: rgba(51, 49, 49, 0.359);
+    color:white;
+    font-weight:400;
+    border:none;
+    width:50vh;
+    height:10vh;
+    position: absolute;
+    top:58vh;
+    left:10vh;
+    right:10vh;
+    border-radius:2vh;
+}
+#b2{
+    font-weight: 600;
+    font-size: 1.1em;
+    background-color: rgba(51, 49, 49, 0.359);
+    color:white;
+    font-weight:400;
+    border:none;
+    width:50vh;
+    height:10vh;
+    position: absolute;
+    top:71vh;
+    left:10vh;
+    right:10vh;
+    border-radius:2vh;}
+#b3{
+    font-weight: 600;
+    font-size: 1.1em;
+    background-color: rgba(51, 49, 49, 0.359);
+    color:white;
+    font-weight:400;
+    border:none;
+    width:50vh;
+    height:10vh;
+    position: absolute;
+    top:84vh;
+    left:10vh;
+    right:10vh;
+    border-radius:2vh;}
+#b4{
+    font-weight: 600;
+    font-size: 1.1em;
+    background-color: rgba(51, 49, 49, 0.359);
+    color:white;
+    font-weight:400;
+    border:none;
+    width:50vh;
+    height:10vh;
+    position: absolute;
+    top:97vh;
+    left:10vh;
+    right:10vh;
+    border-radius:2vh;
+}
+#b5{
+    font-weight: 600;
+    font-size: 1.1em;
+    background-color: rgba(51, 49, 49, 0.359);
+    color:white;
+    font-weight:400;
+    border:none;
+    width:50vh;
+    height:10vh;
+    position: absolute;
+    top:110vh;
+    left:10vh;
+    right:10vh;
+    border-radius:2vh;
+}
+img{
+    width:20vh;
+    height:20vh;
+    border-radius: 100%;
+    position:absolute;
+    left:22.5vh;
+    right:22.5vh;
+    top:10vh;
+}
+#p1 , #p2{
+  color:white;
+  font-weight:500;
+}
+#p1{
+    position:absolute;
+    top:100vh;
+}
+#p2{
+    position:absolute;
+    top:110vh;
+}
